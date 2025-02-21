@@ -185,6 +185,7 @@ Player got Gobbed.
 :::danger
 持有Red bulb的玩家请尽快前往Blue bulb进行充能。若玩家**长时间**持有Red bulb，则该玩家周围会**额外**生成高速移动的怪物Face Eater
 
+:::
 ### Twisted Jungle - 收集挑战
 玩家会被传送至一个封闭的传送门前，左右两侧共有四个通道，身后则是会固定刷怪的三个虚空洞
 
